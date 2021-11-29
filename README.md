@@ -6,6 +6,10 @@ To Install
 1. Clone the Repositiory
 2. Run npm install
 
+**TECHNOLOGIES USED**
+
+HTML, CSS, Javascript, React.js, Redux, Antd, Chart.js
+
 **VIDEO DEMO**
 
 https://www.youtube.com/watch?v=Li185uLoGoQ
